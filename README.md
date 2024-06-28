@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**MahdiRohani/MahdiRohani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm **Mahdi Rohani**, a B.Sc computer engineering student at Amirkabir University of Technology.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Education**:
+  - Bachelor of Science (B.Sc) in Computer Science
+  - University: University of Technology
+
+- 🛠️ **Skills**:
+  I enjoy using:
+  - **Languages**: Kotlin, Java, C
+  - **Technologies**: Android Studio, Docker, MySQL
+
